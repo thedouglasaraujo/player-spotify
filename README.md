@@ -2,6 +2,7 @@
 
 ## :memo: Descrição
 Player de música similar ao Spotify. 
+Acesse já: https://thedouglasaraujo.github.io/player-spotify/
 
 ## :wrench: Tecnologias utilizadas
 - Javascript
